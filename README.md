@@ -42,6 +42,7 @@ Run the project by pressing F5 or clicking Start Debugging.
 Once the project is running, you can access the game at:
 
 https://localhost:<port>/Game
+
 You can open this URL in multiple browser tabs to test the multiplayer functionality.
 
 # How It Works
